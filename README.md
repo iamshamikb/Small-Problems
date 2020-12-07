@@ -1,2 +1,1 @@
-# Some-Puzzles
-Solution of some small problems
+# Solution of some small problems
